@@ -1,0 +1,1 @@
+scrapy crawl eTinexSpider -o  ./outputs/tinex_products_v004.json
